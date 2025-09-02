@@ -66,3 +66,6 @@ yt-downloader-cli-tool <youtube_url> --start 01:30 --end 02:00
 - **YouTube Shorts Support**: A dedicated option to easily download YouTube Shorts.
 
 - **Enhanced Graphical TUI**: Further improvements to the visual design and interactivity of the terminal interface.
+
+---
+![image.png](./test/run_ss.png)
