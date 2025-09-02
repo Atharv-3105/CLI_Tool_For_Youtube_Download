@@ -21,7 +21,7 @@
 - Once installed, you can run the tool from any location in your terminal. The recommended way is to run it without arguments to launch the full interactive TUI.
   
 ```
-yt-downloader
+yt-downloader-cli-tool
 ```
 
 #### You can also use flags for quick, non-interactive use.
@@ -29,22 +29,22 @@ yt-downloader
 - Specify Output Path (--output, -o)
 
 ```
-yt-downloader <youtube_url> --output "my-videos/clip.mp4"
+yt-downloader-cli-tool <youtube_url> --output "my-videos/clip.mp4"
 ```
 - Select Quality (--quality, -q)
 
 ```
-yt-downloader <youtube_url> -q 720
+yt-downloader-cli-tool <youtube_url> -q 720
 ```
 
 - Download Audio Only (--audio-only)
 ```
-yt-downloader <youtube_url> --audio-only
+yt-downloader-clli-tool <youtube_url> --audio-only
 ```
 
 - Clip a Video (--start, --end)
 ```
-yt-downloader <youtube_url> --start 01:30 --end 02:00
+yt-downloader-cli-tool <youtube_url> --start 01:30 --end 02:00
 ```
 ---
 ## **Prerequisites**
