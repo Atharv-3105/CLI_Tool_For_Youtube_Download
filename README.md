@@ -18,7 +18,7 @@
 
 ---
 ## **Usage**
-- Once installed, you can run the tool from any location in your terminal. The recommended way is to run it without arguments to launch the full interactive TUI.
+- Once yt-dlp is installed, you can run the tool from any location in your terminal. The recommended way is to run it without arguments to launch the full interactive TUI.
   
 ```
 yt-downloader-cli-tool
